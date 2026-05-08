@@ -21,6 +21,14 @@
     "default_height": 320.0,
     "default_width": 640.0,
   },
+  "languages": {
+      "Python": {
+        "language_servers": [
+          "ty",
+          "ruff"
+      ]
+    }
+  },
   "agent": {
     "flexible": true,
     "favorite_models": [],
